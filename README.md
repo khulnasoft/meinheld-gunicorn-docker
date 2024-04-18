@@ -428,6 +428,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Bump gunicorn from 21.2.0 to 22.0.0 in /docker-images. PR [#7](https://github.com/khulnasoft/meinheld-gunicorn-docker/pull/7) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump gunicorn from 21.2.0 to 22.0.0. PR [#6](https://github.com/khulnasoft/meinheld-gunicorn-docker/pull/6) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/setup-buildx-action from 1 to 3. PR [#5](https://github.com/khulnasoft/meinheld-gunicorn-docker/pull/5) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump actions/setup-python from 4 to 5. PR [#4](https://github.com/khulnasoft/meinheld-gunicorn-docker/pull/4) by [@dependabot[bot]](https://github.com/apps/dependabot).
