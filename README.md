@@ -428,6 +428,8 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* ⬆ Bump docker/login-action from 1 to 3. PR [#2](https://github.com/khulnasoft/meinheld-gunicorn-docker/pull/2) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 #### Features
 
 * 👷 Avoid creating unnecessary `*.pyc` files with `PYTHONDONTWRITEBYTECODE=1` and ensure logs are printed immediately with `PYTHONUNBUFFERED=1`. PR [#109](https://github.com/khulnasoft/meinheld-gunicorn-docker/pull/109) by [@estebanx64](https://github.com/estebanx64).
